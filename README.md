@@ -1,1 +1,1 @@
-# url41.myntra.com
+# delivery.flipkart.com
